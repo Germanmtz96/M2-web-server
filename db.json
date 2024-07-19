@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "character": {
+                "mal_id": 145,
+                "url": "https://myanimelist.net/character/145/Sakura_Haruno",
+                "images": {
+                    "jpg": {
+                        "image_url": "https://cdn.myanimelist.net/images/characters/9/69275.jpg?s=36c4ad9f4440d77918c34c49870e719c"
+                    },
+                    "webp": {
+                        "image_url": "https://cdn.myanimelist.net/images/characters/9/69275.webp?s=36c4ad9f4440d77918c34c49870e719c",
+                        "small_image_url": "https://cdn.myanimelist.net/images/characters/9/69275t.webp?s=36c4ad9f4440d77918c34c49870e719c"
+                    }
+                },
+                "name": "Haruno, Sakura"
+            },
+            "role": "Main"}
+        ]
+}
