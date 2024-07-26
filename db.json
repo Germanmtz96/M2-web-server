@@ -1,42 +1,84 @@
 {
   "comments": [
     {
-      "mal_id": 20,
-      "id": "1234a",
-      "name": "Pepe dos",
-      "score": 5,
-      "comment": "meh notah mal",
-      "title": "Naruto"
-    },
-    {
-      "mal_id": 15,
-      "id": "1234afssd",
-      "name": "Pepe uno",
-      "score": 2,
-      "comment": "anime para seres inferiores",
-      "title": "Eyeshield 21"
-    },
-    {
       "mal_id": 1,
-      "id": "grroDmR",
-      "name": "pepe tres",
-      "score": "3",
-      "comment": "ffffff",
+      "id": "5678a",
+      "name": "spike",
+      "score": 10,
+      "comment": "one of the best openings in all anime",
       "title": "Cowboy Bebop"
     },
     {
-      "mal_id": 1,
-      "id": 12961,
-      "name": "aaaaaa",
-      "score": "10",
-      "comment": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+      "mal_id": 5114,
+      "id": "5678b",
+      "name": "Alfonso man",
+      "score": 10,
+      "comment": "best anime hands down",
+      "title": "Fullmetal Alchemist: Brotherhood"
     },
     {
-      "mal_id": 1,
-      "id": 876535,
+      "mal_id": 16498,
+      "id": "5678c",
+      "name": "wall maria",
+      "score": 8,
+      "comment": "sasageyo!",
+      "title": "Attack on Titan"
+    },
+    {
+      "mal_id": 153,
+      "id": "5678d",
+      "name": "L",
+      "score": 7,
+      "comment": "without internal dialoges is weird",
+      "title": "Death Note"
+    },
+    {
+      "mal_id": 31964,
+      "id": "5678e",
+      "name": "everyOne",
+      "score": 3,
+      "comment": "meh",
+      "title": "My Hero Academia"
+    },
+    {
+      "mal_id": 9253,
+      "id": "5678f",
+      "name": "Banana",
+      "score": 10,
+      "comment": "time travel mind f***",
+      "title": "Steins;Gate"
+    },
+    {
+      "mal_id": 32643,
+      "id": "5678g",
+      "name": "M.rakoy",
+      "score": 8,
+      "comment": "M.shinkai never disappoints",
+      "title": "Your Name"
+    },
+    {
+      "mal_id": 30276,
+      "id": "5678h",
       "name": "pepe tres",
-      "score": "4",
-      "comment": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+      "score": 9,
+      "comment": "cool op, fun mc i want more",
+      "title": "One Punch Man"
+    },
+    {
+      "mal_id": 20,
+      "id": "5678i",
+      "name": "sasukeEmo96",
+      "score": 7,
+      "comment": "Entertaining but a bit repetitive in the middle.",
+      "title": "Naruto"
+    },
+    {
+      "mal_id": 32653,
+      "id": "5678j",
+      "name": "reigen",
+      "score": 8,
+      "comment": "Reigen is the best.",
+      "title": "Mob Psycho 100"
     }
   ]
 }
